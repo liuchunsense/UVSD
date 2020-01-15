@@ -2,7 +2,7 @@
 
 ## **UAV based vehicle segmentation dataset**
 
-![img](file:///C:/Users/ZHANGW~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![img](https://github.com/liuchunsense/UVSD/blob/master/UVSD_example.png)
 
 ## What is UVSD?
 
