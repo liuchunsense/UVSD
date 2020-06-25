@@ -14,8 +14,8 @@ Free copies of UVSD are provided for research and private study only.
 A copy of the database can be requested through e-mail sent to:
 
 [liuchunsheng@sdu.edu.cn](mailto:liuchunsheng@sdu.edu.cn)
-
-The e-mail message must contain a description of the envisioned use of the database and a [Agreement For UVSD](AgreementForUVSD.pdf). Please note that the End-User named must be a legal institution, or a department or section of a named legal institution, not an individual nor a project-the person signing this Agreement has to be duly authorized by the institution for such signatures (e.g., Department or Administrative Head or similar) and shall be liable for such authorization. For academic requests, please use your university e-mail. A download link will be provided after the analysis of the request. Requests can be denied.
+s
+The e-mail message must contain a description of the envisioned use of the database and a scanned version of [Agreement For UVSD](AgreementForUVSD.pdf). Please note that the End-User named must be a legal institution, or a department or section of a named legal institution, not an individual nor a project-the person signing this Agreement has to be duly authorized by the institution for such signatures (e.g., Department or Administrative Head or similar) and shall be liable for such authorization. For academic requests, please use your university e-mail. A download link will be provided after the analysis of the request. Requests can be denied.
 
 ## Terms and Conditions of Use
 
